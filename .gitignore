@@ -1,0 +1,11 @@
+# Pycharm
+.idea
+
+# virtual environment
+venv
+
+.env
+
+# cpython cache directory
+*__pycache__*
+*.pyc
